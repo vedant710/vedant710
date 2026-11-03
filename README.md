@@ -4,7 +4,7 @@
 
 Robotics Software Developer — Perception · Navigation · SLAM · Localization
 
-[LinkedIn](https://www.linkedin.com/in/vedant-kulkarni-65b348361/) · [Email](mailto:vedantkulkarni252@gmail.com)
+[Portfolio](https://vedant-omega.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vedant-kulkarni-65b348361/) · [Email](mailto:vedantkulkarni252@gmail.com)
 
 </div>
 
