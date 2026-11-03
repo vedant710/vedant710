@@ -2,7 +2,7 @@
 
 # Vedant Kulkarni
 
-Robotics Developer — ROS 2 · Autonomous Navigation · Perception
+Robotics Software Developer — Perception · Navigation · SLAM · Localization
 
 [Portfolio](https://YOUR-PORTFOLIO-LINK) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID) · [Email](mailto:vedantkulkarni252@gmail.com) · [Resume](https://YOUR-RESUME-LINK)
 
@@ -12,27 +12,53 @@ Robotics Developer — ROS 2 · Autonomous Navigation · Perception
 
 ## About
 
-Electronics & Telecommunication engineering student building autonomous mobile robots and UAV simulations with ROS 2 — focused on SLAM, localization, perception, and navigation. Creator of [CAREBRO_](https://github.com/vedant710/CAREBRO_), an open-source assistive robot platform.
+I work on how robots see, locate themselves and move through the real world. My work covers both sides of a robot: the software that lets it understand its surroundings and plan a path, and the embedded hardware that lets it act on that understanding, from simulation to real boards.
+
+Electronics & Telecommunication engineering student at BVCOE, Navi Mumbai. Always up for a good robotics conversation.
 
 <br/>
 
-## Stack
+## What I Work On
 
 <div align="center">
 
-![ROS 2](https://img.shields.io/badge/ROS_2-0D1117?style=flat-square&logo=ros&logoColor=6366F1)
-![Nav2](https://img.shields.io/badge/Nav2-0D1117?style=flat-square&logo=ros&logoColor=6366F1)
-![MoveIt 2](https://img.shields.io/badge/MoveIt_2-0D1117?style=flat-square&logo=ros&logoColor=6366F1)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6366F1)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=6366F1)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=6366F1)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=6366F1)
+**Software**
+
+![Perception](https://img.shields.io/badge/Perception-0D1117?style=flat-square)
+![Autonomous Navigation](https://img.shields.io/badge/Autonomous_Navigation-0D1117?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM-0D1117?style=flat-square)
+![Localization](https://img.shields.io/badge/Localization-0D1117?style=flat-square)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-0D1117?style=flat-square)
+![Motion Planning](https://img.shields.io/badge/Motion_Planning-0D1117?style=flat-square)
+![Robot Simulation](https://img.shields.io/badge/Robot_Simulation-0D1117?style=flat-square)
+
+**Hardware**
+
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0D1117?style=flat-square)
+![Robotic Arms](https://img.shields.io/badge/Robotic_Arms-0D1117?style=flat-square)
+![Sensor Interfacing](https://img.shields.io/badge/Sensor_Interfacing-0D1117?style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=6366F1)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=6366F1)
 ![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=6366F1)
 ![STM32](https://img.shields.io/badge/STM32-0D1117?style=flat-square&logo=stmicroelectronics&logoColor=6366F1)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=6366F1)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6366F1)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=6366F1)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=6366F1)
 
 </div>
+
+<br/>
+
+## What I've Built
+
+- **Autonomous mobile robots:** indoor navigation, mapping and obstacle avoidance, from simulation through to real robots
+- **UAV simulation:** drone flight and autonomy workflows in simulation
+- **Robotic arms:** a low-cost 6-DOF arm designed and built from scratch, with motion planning
+- **Embedded systems:** microcontroller-based sensing and control on ESP32, STM32 and Arduino
+- **Hackathons and competitions:** hardware category winner at BVHacks 2025 and a participant in e-Yantra 2024 and 2025
 
 <br/>
 
