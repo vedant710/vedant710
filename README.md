@@ -24,29 +24,29 @@ Electronics & Telecommunication engineering student at BVCOE, Navi Mumbai. Alway
 
 **Software**
 
-![Perception](https://img.shields.io/badge/Perception-0D1117?style=flat-square)
-![Autonomous Navigation](https://img.shields.io/badge/Autonomous_Navigation-0D1117?style=flat-square)
-![SLAM](https://img.shields.io/badge/SLAM-0D1117?style=flat-square)
-![Localization](https://img.shields.io/badge/Localization-0D1117?style=flat-square)
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-0D1117?style=flat-square)
-![Motion Planning](https://img.shields.io/badge/Motion_Planning-0D1117?style=flat-square)
-![Robot Simulation](https://img.shields.io/badge/Robot_Simulation-0D1117?style=flat-square)
+![Perception](https://img.shields.io/badge/Perception-0D1117?style=flat-square&logo=opencv&logoColor=white)
+![Autonomous Navigation](https://img.shields.io/badge/Autonomous_Navigation-0D1117?style=flat-square&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-0D1117?style=flat-square&logo=openstreetmap&logoColor=white)
+![Localization](https://img.shields.io/badge/Localization-0D1117?style=flat-square&logo=googlemaps&logoColor=white)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-0D1117?style=flat-square&logo=numpy&logoColor=white)
+![Motion Planning](https://img.shields.io/badge/Motion_Planning-0D1117?style=flat-square&logo=scipy&logoColor=white)
+![Robot Simulation](https://img.shields.io/badge/Robot_Simulation-0D1117?style=flat-square&logo=ros&logoColor=white)
 
 **Hardware**
 
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0D1117?style=flat-square)
-![Robotic Arms](https://img.shields.io/badge/Robotic_Arms-0D1117?style=flat-square)
-![Sensor Interfacing](https://img.shields.io/badge/Sensor_Interfacing-0D1117?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=6366F1)
-![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=6366F1)
-![STM32](https://img.shields.io/badge/STM32-0D1117?style=flat-square&logo=stmicroelectronics&logoColor=6366F1)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=6366F1)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0D1117?style=flat-square&logo=arm&logoColor=white)
+![Robotic Arms](https://img.shields.io/badge/Robotic_Arms-0D1117?style=flat-square&logo=ros&logoColor=white)
+![Sensor Interfacing](https://img.shields.io/badge/Sensor_Interfacing-0D1117?style=flat-square&logo=opensourcehardware&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-0D1117?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=white)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6366F1)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=6366F1)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=6366F1)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=white)
 
 </div>
 
